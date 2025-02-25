@@ -13,7 +13,7 @@ function DemoSection() {
             </p>
 
             <div className="my-20 scroll-mt-28 w-full" id="demo">
-                <div className="w-full lg:w-4/5 lg:mx-auto lg:h-96 shadow-md bg-gray-200 rounded-xl flex items-center justify-center">
+                <div className="w-full lg:w-4/5 lg:mx-auto h-96 shadow-md bg-gray-200 rounded-xl flex items-center justify-center">
                     <h1 className="font-bold text-xl">
                         Your Demo
                     </h1>
