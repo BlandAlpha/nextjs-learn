@@ -50,7 +50,7 @@ function BeforeAfter() {
                 <div className="flex w-full sm:flex-1 flex-col items-center bg-primary/10 rounded-2xl shadow-md py-12">
                 <ul className="text-left font-medium flex flex-col sm:items-start">
                         <div className="space-y-2 tracking-wide text-xl">
-                            <h3>Before</h3>
+                            <h3>After</h3>
                             <li className="flex gap-1.5 items-center text-left">
                                 <Check className="size-4 shrink-0 text-green-500"/>
                                 Good good good good good
@@ -87,7 +87,7 @@ function BeforeAfter() {
                     <img src="/users/Boris.png" alt="User" className="inline-block pointer-events-none object-cover size-12 rounded-full ring-2 ring-gray-300"/>
                     <div className="flex flex-col">
                         <p className="font-semibold"> Boris M</p>
-                        <p className="text-sm">User one</p>
+                        <p className="text-sm">Student of MIT</p>
                     </div>
                 </div>
             </div>

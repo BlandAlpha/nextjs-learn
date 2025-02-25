@@ -1,4 +1,5 @@
 import BeforeAfter from './BeforeAfter'
+import FeatureDisplay from './landingPageComponents/FeatureDisplay'
 import HeroSection from './landingPageComponents/HeroSection'
 
 function LandingPage() {
@@ -6,6 +7,7 @@ function LandingPage() {
     <>
         <HeroSection />
         <BeforeAfter />
+        <FeatureDisplay />
     </>
   )
 }

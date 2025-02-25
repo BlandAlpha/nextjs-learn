@@ -67,7 +67,7 @@ function HeroSection() {
                 </div>
             </div>
             
-            <div className="col-span-full mt-14 md:mt-0 lg:col-span-1">
+            <div className="col-span-full mt-14 lg:mt-0 lg:col-span-1">
                 <div className="w-full h-60 lg:h-full rounded-3xl bg-gray-200/80 flex items-center justify-center">
                     <h1 className="text-center text-lg font-bold">
                         Your Graphic
