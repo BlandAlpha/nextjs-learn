@@ -1,5 +1,6 @@
 import BeforeAfter from './landingPageComponents/BeforeAfter'
 import DemoSection from './landingPageComponents/DemoSection'
+import FaqSection from './landingPageComponents/FaqSection'
 import FeatureDisplay from './landingPageComponents/FeatureDisplay'
 import HeroSection from './landingPageComponents/HeroSection'
 import PricingSection from './landingPageComponents/PricingSection'
@@ -12,6 +13,7 @@ function LandingPage() {
         <FeatureDisplay />
         <DemoSection />
         <PricingSection />
+        <FaqSection />
     </>
   )
 }
