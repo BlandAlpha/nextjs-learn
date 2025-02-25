@@ -1,3 +1,4 @@
+import AsSeenOn from './landingPageComponents/AsSeenOn'
 import BeforeAfter from './landingPageComponents/BeforeAfter'
 import DemoSection from './landingPageComponents/DemoSection'
 import FaqSection from './landingPageComponents/FaqSection'
@@ -14,6 +15,7 @@ function LandingPage() {
         <DemoSection />
         <PricingSection />
         <FaqSection />
+        <AsSeenOn />
     </>
   )
 }
