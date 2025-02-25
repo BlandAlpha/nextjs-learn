@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { ArrowRight, Check } from "lucide-react"
-import MaxWidthWrapper from "../MaxWithWrapper"
+import MaxWidthWrapper from "../MaxWidthWrapper"
 import { buttonVariants } from "../ui/button"
 import { cn } from '@/lib/utils'
 import { Star } from "lucide-react"

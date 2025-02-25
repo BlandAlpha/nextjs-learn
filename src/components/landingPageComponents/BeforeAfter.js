@@ -1,6 +1,6 @@
 import { Check, X } from "lucide-react"
 import { Star } from "lucide-react"
-import MaxWidthWrapper from "./MaxWithWrapper"
+import MaxWidthWrapper from "../MaxWidthWrapper"
 
 function BeforeAfter() {
   return (
