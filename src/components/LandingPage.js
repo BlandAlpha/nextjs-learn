@@ -5,6 +5,7 @@ import FaqSection from './landingPageComponents/FaqSection'
 import FeatureDisplay from './landingPageComponents/FeatureDisplay'
 import HeroSection from './landingPageComponents/HeroSection'
 import PricingSection from './landingPageComponents/PricingSection'
+import Testimonials from './landingPageComponents/Testimonials'
 
 function LandingPage() {
   return (
@@ -16,6 +17,7 @@ function LandingPage() {
         <PricingSection />
         <FaqSection />
         <AsSeenOn />
+        <Testimonials />
     </>
   )
 }

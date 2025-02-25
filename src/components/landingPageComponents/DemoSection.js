@@ -5,7 +5,7 @@ function DemoSection() {
     <section className="bg-white/80 py-20">
         <div className="w-[90%] sm:max-w-2xl lg:max-w-3xl mx-auto flex flex-col items-center text-gray-700">
             <h1 className="font-bold text-3xl text-center">
-                Hey there, it's <a href="https://github.com/BlandAlpha/" target="_blank" rel="noopener noreferrer" className="hover:underline hover:underline-offset-2">CanisAlpha</a>👋
+                Hey there, it's <a href="https://github.com/BlandAlpha/" target="_blank" rel="noopener noreferrer" className="hover:underline hover:underline-offset-2">Boris</a>👋
             </h1>
             <img src="/users/Boris.png" alt="canisalpha" className="inline-block pointer-events-none size-24 rounded-full my-10"/>
             <p className="max-w-prose w-fit text-center font-semibold leading-relaxed">
