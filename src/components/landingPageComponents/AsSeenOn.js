@@ -2,7 +2,7 @@ import { InfiniteSlider } from "../ui/infinite-slider"
 
 function AsSeenOn() {
   return (
-    <InfiniteSlider gap={100} reverse>
+    <InfiniteSlider duration={50} durationOnHover={100} gap={50} reverse>
         <img 
             src="/brand-logos/logosource_adidas.png" 
             alt="" 
