@@ -9,7 +9,7 @@ function DemoSection() {
             </h1>
             <img src="/users/Boris.png" alt="canisalpha" className="inline-block pointer-events-none size-24 rounded-full my-10"/>
             <p className="max-w-prose w-fit text-center font-semibold leading-relaxed">
-                <spam className="font-bold">Your story goes here.</spam> Lorem ipsum dolor, sit amet consectetur.
+                <span className="font-bold">Your story goes here.</span> Lorem ipsum dolor, sit amet consectetur.
             </p>
 
             <div className="my-20 scroll-mt-28 w-full" id="demo">

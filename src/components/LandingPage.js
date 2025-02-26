@@ -4,6 +4,7 @@ import DemoSection from './landingPageComponents/DemoSection'
 import FaqSection from './landingPageComponents/FaqSection'
 import FeatureDisplay from './landingPageComponents/FeatureDisplay'
 import FinalPush from './landingPageComponents/FinalPush'
+import Footer from './landingPageComponents/Footer'
 import HeroSection from './landingPageComponents/HeroSection'
 import PricingSection from './landingPageComponents/PricingSection'
 import Testimonials from './landingPageComponents/Testimonials'
@@ -20,6 +21,7 @@ function LandingPage() {
         <AsSeenOn />
         <Testimonials />
         <FinalPush />
+        <Footer />
     </>
   )
 }
