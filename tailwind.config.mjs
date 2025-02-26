@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
   	extend: {
+		fontFamily: {
+			'dm-sans': ['var(--font-dm-sans)', 'sans-serif'],
+		},
   		colors: {
 			lightgreen: '#6B7989',
 			palewhite: '#F8F9FA',

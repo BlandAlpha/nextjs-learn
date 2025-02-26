@@ -3,13 +3,16 @@ import "./globals.css";
 import { cn } from "@/lib/utils";
 import Navbar from "@/components/Navbar";
 
-const dm_sans = DM_Sans({ subsets: ['latin'] })
+const dm_sans = DM_Sans({ 
+  subsets: ['latin'],
+  display: 'swap',
+})
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={cn('min-h-screen font-sans antialiased', dm_sans.className)}
+        className={cn('min-h-screen antialiased', dm_sans.className)}
       >
         <Navbar />
         {children}

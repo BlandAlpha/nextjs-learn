@@ -26,7 +26,7 @@ function BeforeAfter() {
                 <div className="flex w-full sm:flex-1 flex-col items-center bg-primary-foreground rounded-2xl shadow-md py-12">
                     <ul className="text-left font-medium flex flex-col sm:items-start">
                         <div className="space-y-2 tracking-wide text-xl">
-                            <h3>Before</h3>
+                            <h3 className="font-semibold">Before</h3>
                             <li className="flex gap-1.5 items-center text-left">
                                 <X className="size-4 shrink-0 text-red-500"/>
                                 Bad bad bad bad bad bad
@@ -47,10 +47,10 @@ function BeforeAfter() {
                     </ul>
                 </div>
 
-                <div className="flex w-full sm:flex-1 flex-col items-center bg-primary/10 rounded-2xl shadow-md py-12">
+                <div className="flex w-full sm:flex-1 flex-col items-center bg-cyan-50 rounded-2xl shadow-md py-12">
                 <ul className="text-left font-medium flex flex-col sm:items-start">
                         <div className="space-y-2 tracking-wide text-xl">
-                            <h3>After</h3>
+                            <h3 className="font-semibold">After</h3>
                             <li className="flex gap-1.5 items-center text-left">
                                 <Check className="size-4 shrink-0 text-green-500"/>
                                 Good good good good good

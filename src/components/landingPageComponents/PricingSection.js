@@ -22,7 +22,7 @@ function PricingSection() {
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-7 my-4 md:my-10 text-[#293A51]">
                     {/* free plan */}
-                    <div className="bg-white p-8 rounded-xl shadow-sm mt-14">
+                    <div className="bg-white p-8 rounded-xl shadow-sm lg:mt-14">
                         <h3 className="text-2xl font-bold mb-4 text-center">
                             Free
                         </h3>
@@ -122,7 +122,7 @@ function PricingSection() {
                     </div>
 
                     {/* enterprise plan */}
-                    <div className="bg-white p-8 rounded-xl shadow-sm mt-14">
+                    <div className="bg-white p-8 rounded-xl shadow-sm lg:mt-14">
                         <h3 className="text-2xl font-bold text-center">Enterprise</h3>
                         <div className="bg-palewhite rounded-full size-20 flex items-center justify-center mx-auto my-7">
                             <Building2 className="size-8 text-lightgreen" />
