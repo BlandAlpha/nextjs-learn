@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils'
 
 function Navbar() {
   return (
-    <nav className="sticky h-16 inset-x-0 top-0 z-30 w-full border-b border-gray-200 bg-white/7 backdrop-blur-xl transition-all">
+    <nav className="sticky h-16 inset-x-0 top-0 z-30 w-full border-b bg-white/75 border-gray-200 bg-white/7 backdrop-blur-lg transition-all">
         <MaxWidthWrapper>
             <div className="flex h-16 items-center justify-between">
                 <div className="flex items-center justify-center gap-14">

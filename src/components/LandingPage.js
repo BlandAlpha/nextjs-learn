@@ -3,6 +3,7 @@ import BeforeAfter from './landingPageComponents/BeforeAfter'
 import DemoSection from './landingPageComponents/DemoSection'
 import FaqSection from './landingPageComponents/FaqSection'
 import FeatureDisplay from './landingPageComponents/FeatureDisplay'
+import FinalPush from './landingPageComponents/FinalPush'
 import HeroSection from './landingPageComponents/HeroSection'
 import PricingSection from './landingPageComponents/PricingSection'
 import Testimonials from './landingPageComponents/Testimonials'
@@ -18,6 +19,7 @@ function LandingPage() {
         <FaqSection />
         <AsSeenOn />
         <Testimonials />
+        <FinalPush />
     </>
   )
 }

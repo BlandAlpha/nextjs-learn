@@ -29,7 +29,7 @@ function Testimonials() {
   return (
     <MaxWidthWrapper>
         <div className="text-center space-y-5 my-14" id='testimonials'>
-            <h1 className="font-bold text-4xl">6,384 happy customeers</h1>
+            <h1 className="font-bold text-4xl">6,384 Happy Customeers</h1>
             <h2 className="font-semibold text-xl">Hear from our satisfied customers about their experience with our products and services</h2>
         </div>
 
